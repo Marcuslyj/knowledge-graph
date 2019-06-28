@@ -30,19 +30,19 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook-template"
+      "shortName": "knowledge-graph"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "riskers",
-        "repo": "gitbook-template",
+        "user": "webxmsj",
+        "repo": "knowledge-graph",
         "type": "star",
         "size": "small",
         "count": true
       }]
     },
     "editlink": {
-      "base": "https://github.com/riskers/gitbook-template/blob/master",
+      "base": "https://github.com/webxmsj/knowledge-graph/blob/master",
       "label": "Edit",
       "multilingual": false
     },
@@ -59,7 +59,7 @@
       ]
     },
     "page-footer-ex": {
-      "copyright": "By [riskers](https://github.com/riskers)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+      "copyright": "By [webxmsj](https://github.com/webxmsj)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
       "markdown": true,
       "update_label": "此页面修订于：",
       "update_format": "YYYY-MM-DD HH:mm:ss"
@@ -68,8 +68,8 @@
       "path": "/"
     },
     "donate": {
-      "wechat": "https://ws1.sinaimg.cn/large/8e495e65ly1fz0myv9povj20u00u0wfr.jpg",
-      "alipay": "https://ws1.sinaimg.cn/large/8e495e65ly1fz0myv9emlj20p011idib.jpg",
+      "wechat": "http://imgoss.bfrontend.com/2019-06-28-123045.png",
+      "alipay": "http://imgoss.bfrontend.com/2019-06-28-122944.png",
       "title": "",
       "button": "赏",
       "alipayText": "支付宝打赏",
