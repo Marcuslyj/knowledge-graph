@@ -1,6 +1,6 @@
 # Summary
 
-* [About](./README.md)
+* [关于](./README.md)
 
 ## CSS
 
@@ -8,8 +8,8 @@
 
 ## HTML
 
-* [1-1语法](./HTML/1-1语法.md)
+* [1-1常用meta](./HTML/1-1常用meta.md)
 
 ## JS
 
-* [1-1语法](./JS/1-1语法.md)
+* [1-1类型转换](./JS/1-1类型转换.md)
