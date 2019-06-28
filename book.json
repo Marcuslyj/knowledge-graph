@@ -1,6 +1,6 @@
 {
-  "title": "title",
-  "author": "",
+  "title": "程序员的知识图谱",
+  "author": "webxmsj",
   "plugins": [
     "-lunr",
     "-search",
