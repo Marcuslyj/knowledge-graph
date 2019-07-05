@@ -12,6 +12,7 @@
     "ga",
     "-highlight",
     "prism",
+    "prism-themes",
     "bibtex-indexed-cite",
     "anchor-navigation-ex",
     "page-footer-ex",
