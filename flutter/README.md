@@ -3,9 +3,9 @@
 > 10步，每一个学习步骤都以自己亲身实现写出了Demo为准，光看资料不算完成
 
 
-* 参考https://flutterchina.club/setup-macos/，搭建Flutter开发环境，安装默认项目到设备
-* 通读Dart语法一遍：https://juejin.im/post/5c52a386f265da2de25b5c36，要求上面所有代码，必须自己敲一遍
-* 实现一个简单的HelloWorld页面，目的是熟悉Flutter的项目结构和StatelessWidget组件，通读Flutter的所有UI组件一遍：https://juejin.im/post/5c18d181f265da611f07a128，要求记住flutter的常用UI组件的继承关系
+* 参考[flutterchina.clug](https://flutterchina.club/get-started/install/)[flutter.dev](https://flutter.dev/docs/get-started/install)，搭建Flutter开发环境，安装默认项目到设备
+* [通读Dart语法一遍](https://juejin.im/post/5c52a386f265da2de25b5c36)，要求上面所有代码，必须自己敲一遍
+* 实现一个简单的HelloWorld页面，目的是熟悉Flutter的项目结构和StatelessWidget组件，[通读Flutter的所有UI组件一遍](https://juejin.im/post/5c18d181f265da611f07a128)，要求记住flutter的常用UI组件的继承关系
 * 实现页面跳转、传参、接收返回值，目的是熟悉Navigator组件
 * 实现一个淘宝-个人中心页面，暂不要求交互，但是页面的样式要大致实现，主要目的是熟悉基本UI组件，尤其是布局、文本、图片，
 * 实现一个淘宝-首页，要求包含交互：下拉刷新和上拉加载更多，主要目的是熟悉复杂列表视图、滚动嵌套、手势
